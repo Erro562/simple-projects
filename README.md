@@ -1,2 +1,2 @@
 # simple-projects
-Ósseo 
+ócio
